@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animal/Animal.iml" filepath="$PROJECT_DIR$/Animal/Animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListClass/ArrayListClass.iml" filepath="$PROJECT_DIR$/ArrayListClass/ArrayListClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS211LABWEEK4.iml" filepath="$PROJECT_DIR$/CS211LABWEEK4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicBinding/DynamicBinding.iml" filepath="$PROJECT_DIR$/DynamicBinding/DynamicBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Figures/Figures.iml" filepath="$PROJECT_DIR$/Figures/Figures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalClass/FinalClass.iml" filepath="$PROJECT_DIR$/FinalClass/FinalClass.iml" />
+    </modules>
+  </component>
+</project>
